@@ -1,0 +1,4 @@
+{
+  "mongo_development":"mongodb://localhost:27017/Announcement_DB",
+  "mongo_production":"mongodb://localhost:27017/Announcement_DB"
+}
